@@ -1,0 +1,11 @@
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\bin\Debug\netcoreapp2.1\Calculator console app.deps.json
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\bin\Debug\netcoreapp2.1\Calculator console app.runtimeconfig.json
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\bin\Debug\netcoreapp2.1\Calculator console app.runtimeconfig.dev.json
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\bin\Debug\netcoreapp2.1\Calculator console app.dll
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\bin\Debug\netcoreapp2.1\Calculator console app.pdb
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\obj\Debug\netcoreapp2.1\Calculator console app.csprojAssemblyReference.cache
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\obj\Debug\netcoreapp2.1\Calculator console app.csproj.CoreCompileInputs.cache
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\obj\Debug\netcoreapp2.1\Calculator console app.AssemblyInfoInputs.cache
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\obj\Debug\netcoreapp2.1\Calculator console app.AssemblyInfo.cs
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\obj\Debug\netcoreapp2.1\Calculator console app.dll
+C:\Users\James Vincent Apita\Desktop\Project c#\Calculator console app\Calculator console app\obj\Debug\netcoreapp2.1\Calculator console app.pdb
